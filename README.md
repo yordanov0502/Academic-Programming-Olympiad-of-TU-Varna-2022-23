@@ -1,1 +1,1 @@
-# Academic-Programming-Olympiad-of-TU-Varna-2022-23
+This is a repository of all tasks, which I have managed to solve successfully during my participation in the Academic Programming Olympiad of Technical University of Varna 2022-2023. The tasks are related to competitve programming and all solutions are written in C++ and JAVA. At the end of the contest I won a gold medal and a cup.
